@@ -211,7 +211,7 @@ Through these projects, the following concepts were implemented:
 ---
 
 # 👨‍💻 Author
-## ARSALAN AKBAR
+## ARSALAN With the help of kashan
 
 Artificial Neural Network (ANN) Assignment
 
